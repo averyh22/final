@@ -1,0 +1,75 @@
+body {
+  background-color: #fff;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.twitterblue {
+  color: #00aced;
+}
+.instapink{
+  color: #bc2a8d;
+}
+.facebookblue{
+  color: #3b5998;
+}
+#twitter p {
+  font-family: arial, sans-serif;
+  text-align: center;
+  color: rgba(192, 222, 237, .8);
+  font-size: 25px;
+  padding-top: 0px;
+}
+#insta p {
+  font-family: arial, sans-serif;
+  text-align: center;
+  color: rgba(188, 42, 141, .8);
+  font-size: 25px;
+}
+#facebook p {
+  font-family: arial, sans-serif;
+  text-align: center;
+  color: rgba(175, 189, 212, .8);
+  font-size: 25px;
+  margin-top: 0;
+}
+header{
+  padding-bottom: 235px;
+}
+header h1{
+  background-color: #fff;
+  margin: 0 auto;
+  padding-left: none;
+  font-family: arial black, sans-serif;
+  padding-top: 235px;
+}
+header h3{
+  background-color: #fff;
+  font-family: arial, sans-serif;
+}
+#twitter{
+  background-color: #1DA1F2;
+  margin-left: -1em;
+  margin-right: -1em;
+}
+#insta {
+  margin-left: -1em;
+  margin-right: -1em;
+}
+#facebook {
+  background-color: #3b5998;
+  margin-left: -1em;
+  margin-right: -1em;
+}
+h2{
+  font-family: arial, sans-serif;
+  color: #777;
+  text-align: center;
+}
+#fuck {
+  padding-top: 500px;
+
+}
