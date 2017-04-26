@@ -1,0 +1,138 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-family: arial, sans-serif;
+  color: #bc2a8d;
+  text-align: left;
+  font-size: 62px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h3 {
+  font-family: arial, sans-serif;
+  color: #bc2a8d;
+  text-align: left;
+
+}
+
+a:link    {
+text-decoration:  underline;
+font-weight:      bold;
+background-color: #fff;
+color: #bc2a8d;
+
+}
+
+a:visited {
+text-decoration:  none;
+font-weight:      bold;
+background-color: #fff;
+color: #bc2a8d;
+}
+
+.jump-link-top {
+text-align: left;
+font-family: arial;
+margin: 1em 0 0 0;
+font-size: 23px;
+}
+nav {
+  font-family: Arial;
+  font-size: 1em;
+  padding-left: -10px;
+}
+
+nav a {
+  font-family: Arial;
+  font-size: 1em;
+  padding-left: 5px;
+
+}
+
+
+a:link    {
+text-decoration:  none;
+font-weight:      bold;
+background-color: #fff;
+color: #bc2a8d;
+
+}
+
+a:visited {
+text-decoration:  none;
+font-weight:      bold;
+background-color: #fff;
+color:           #bc2a8d;
+}
+
+#kimmyline {
+  text-decoration:  underline;
+}
+
+@media (min-width: 60em) {
+
+h1 {
+  font-size: 10.8em;
+  text-align: left;
+}
+
+h3 {
+
+  font-size: 22px;
+  text-align: left;
+}
+
+.jump-link-top {
+text-align: left;
+font-family: arial;
+margin: 1em 0 0 0;
+font-size: 29px;
+padding-bottom: 20px;
+}
+
+.max-width {
+  max-width: 52em;
+  padding: 0 1em;
+  margin: 0 auto;
+  }
+
+  #kimmyk {
+    padding-top: 32px;
+    padding-right: 30px;
+  }
+
+  nav {
+    font-family: Arial;
+    font-size: 1.3em;
+  }
+
+  nav a {
+    font-family: Arial;
+    font-size: 1em;
+    padding-left: 10px;
+
+  }
+
+
+  a:link    {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #fff;
+  color: #bc2a8d;
+
+  }
+
+  a:visited {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #fff;
+  color:           #bc2a8d;
+  }
+
+
+}
